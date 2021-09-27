@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 selenium = "*"
 python-dotenv = "*"
+py-pdf-parser = "*"
+numpy = "*"
 
 [dev-packages]
 
